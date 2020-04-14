@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-        int[] arr = {25,46,84,2,7};
+        int[] arr = ;
         for (int i =0;i<arr.length/2;i++){
             int temp = arr[i];
             arr[i]=arr[arr.length-1-i];
