@@ -29,6 +29,6 @@ public class Main {
         }
 
 
-        System.out.printf("Có tổng số chữ %s trong chuỗi java",count_letter);
+        System.out.printf("Có tổng số %s chữ %s trong chuỗi java",count_letter,letter);
     }
 }
